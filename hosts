@@ -240,10 +240,10 @@ fe80::1%lo0 localhost
 
 # Google Start
 64.233.160.90	www.google.com
-216.239.38.125	google.com
-216.239.38.125	gcr.io
-216.239.38.125	www.gcr.io
-216.239.38.125	com.google
+216.58.212.38	google.com
+216.58.212.38	gcr.io
+216.58.212.38	www.gcr.io
+216.58.212.38	com.google
 216.239.38.125	admin.google.com
 216.239.38.125	accounts.google.com
 216.239.38.125	bpui0.google.com
@@ -258,7 +258,7 @@ fe80::1%lo0 localhost
 216.239.38.125	contributor.google.com
 216.239.38.125	desktop.google.com
 216.239.38.125	desktop2.google.com
-216.239.38.125	encrypted.google.com
+216.58.212.38	encrypted.google.com
 216.239.38.125	encrypted-tbn0.google.com
 216.239.38.125	encrypted-tbn1.google.com
 216.239.38.125	encrypted-tbn2.google.com
@@ -272,13 +272,13 @@ fe80::1%lo0 localhost
 216.239.38.125	keep.google.com
 216.239.38.125	linkhelp.clients.google.com
 216.239.38.125	upload.clients.google.com
-216.239.38.125	myaccount.google.com
+216.58.212.38	myaccount.google.com
 216.239.38.125	peering.google.com
 216.239.38.125	places.google.com
 216.239.38.125	pki.google.com
 216.239.38.125	script.google.com
-216.239.38.125	security.google.com
-216.239.38.125	services.google.com
+216.58.212.38	security.google.com
+216.58.212.38	services.google.com
 216.239.38.125	store.google.com
 216.239.38.125	suggestqueries.google.com
 216.239.38.125	support.google.com
@@ -298,7 +298,7 @@ fe80::1%lo0 localhost
 216.239.38.125	ig.ig.gmodules.com
 216.239.38.125	redirector.c.youtube.com
 216.239.38.125	relay.google.com
-216.239.38.125	image.google.com
+216.58.212.38	image.google.com
 216.239.38.125	mapsengine.google.com
 216.239.38.125	client-channel.google.com
 216.239.38.125	0.client-channel.google.com
